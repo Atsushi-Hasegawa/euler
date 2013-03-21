@@ -1,6 +1,6 @@
 package sample
 
-class Problem2 {
+object Problem2 {
 
 	def main(arvs : Array[String]) = {
 

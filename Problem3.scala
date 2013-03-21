@@ -1,7 +1,7 @@
 package sample
 import java.util._
 
-class Problem3 {
+object Problem3 {
 
 	def main(arvs : Array[String]) = {
 

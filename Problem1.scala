@@ -1,7 +1,7 @@
 package sample
 import java.util._
 
-class Problem1 {
+object Problem1 {
 
 	def main(args : Array[String]) : Unit = {
 		val list = new ArrayList[Int]()
